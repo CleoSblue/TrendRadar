@@ -1,19 +1,24 @@
 苹果
+!水果
+
 Apple
 iPhone
 iPad
 mac
+
 gemini
 Chatgpt
 Grok
+
 Google
 anthropic
 claude
+
 三星
 Samsung
+
 deepmind
 sora
-!水果
 
 DeepSeek
 
@@ -21,9 +26,6 @@ DeepSeek
 鸿蒙
 HarmonyOS
 任正非
-
-!车
-!餐
 
 申奥
 
