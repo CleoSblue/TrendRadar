@@ -13,6 +13,7 @@ claude
 Samsung
 deepmind
 sora
+!水果
 
 DeepSeek
 
