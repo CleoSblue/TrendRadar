@@ -111,6 +111,10 @@ platforms:
     name: "知乎"
   - id: "hupu"
     name: "虎扑"
+  - id: "douban"
+    name: "豆瓣"
+  - id: "coolapk"
+    name: "酷安"
 
   # === 科技类平台 ===
   - id: "ithome"
