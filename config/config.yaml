@@ -85,8 +85,7 @@ platforms:
     name: "百度热搜"
   - id: "thepaper"
     name: "澎湃新闻"
-  - id: "ifeng"
-    name: "凤凰网"
+
   - id: "cankaoxiaoxi"
     name: "参考消息"
   - id: "sputniknewscn"
@@ -109,18 +108,13 @@ platforms:
     name: "贴吧"
   - id: "zhihu"
     name: "知乎"
-  - id: "hupu"
-    name: "虎扑"
   - id: "douban"
     name: "豆瓣"
-  - id: "coolapk"
-    name: "酷安"
+
 
   # === 科技类平台 ===
   - id: "ithome"
     name: "IT之家"
-  - id: "juejin"
-    name: "掘金"
   - id: "github"
     name: "GitHub"
   - id: "hackernews"
@@ -138,6 +132,4 @@ platforms:
   - id: "producthunt"
     name: "ProductHunt"
 
-  # === 其他/工具类 ===
-  - id: "chongbuluo"
-    name: "虫部落"
+
