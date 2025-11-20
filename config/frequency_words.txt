@@ -18,18 +18,9 @@ claude
 魅族
 Samsung
 
-deepmind
 sora
 
 DeepSeek
-
-华为
-鸿蒙
-HarmonyOS
-
-
-京东
-刘强东
 
 字节
 bytedance
@@ -40,11 +31,6 @@ bytedance
 微软
 Microsoft
 
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
 
 ai
 !gai
